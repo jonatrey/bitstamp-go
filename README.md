@@ -3,7 +3,7 @@ bitstamp-go
 
 A client implementation of the Bitstamp API, including websockets, in Golang.
 
-Example Usage
+Example Usage:
 -----
 
 ```go
